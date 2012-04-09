@@ -1,0 +1,9 @@
+[
+  { "keys": ["super+p"], "command": "show_overlay", "args": {"overlay": "command_palette", "text": "Snippet: "}},
+  { "keys": ["alt+ctrl+r"], "command": "refresh_folder_list" },
+  {
+    "keys": ["shift+enter"],
+    "command": "insert_snippet",
+    "args": {"name": "Packages/User/php_comment_newline.sublime-snippet"}
+  }
+]
