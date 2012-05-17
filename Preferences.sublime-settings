@@ -1,8 +1,12 @@
 {
+	"auto_complete_commit_on_tab": false,
+	"auto_complete_with_fields": false,
+	"auto_match_enabled": false,
 	"color_scheme": "Packages/Color Scheme - Default/Sunburst.tmTheme",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
 	"fallback_encoding": "UTF-8",
+	"font_size": 12.0,
 	"rulers":
 	[
 		80
@@ -13,14 +17,5 @@
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
-	"auto_match_enabled": false,
-  "word_wrap": true,
-  // By default, auto complete will commit the current completion on enter.
-  // This setting can be used to make it complete on tab instead.
-  // Completing on tab is generally a superior option, as it removes
-  // ambiguity between committing the completion and inserting a newline.
-  "auto_complete_commit_on_tab": false,
-  // Controls if auto complete is shown when snippet fields are active.
-  // Only relevant if auto_complete_commit_on_tab is true.
-  "auto_complete_with_fields": false
+	"word_wrap": true
 }
