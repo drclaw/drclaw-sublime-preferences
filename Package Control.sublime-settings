@@ -1,7 +1,10 @@
 {
-	"auto_upgrade_last_run": 1333987224,
+	"auto_upgrade_last_run": 1337014257,
 	"installed_packages":
 	[
+		"Drupal Project Autocomplete",
+		"Drupal Snippets",
+		"Goto Drupal API",
 		"Package Control",
 		"SVN"
 	]

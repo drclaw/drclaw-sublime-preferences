@@ -5,5 +5,6 @@
     "keys": ["shift+enter"],
     "command": "insert_snippet",
     "args": {"name": "Packages/User/php_comment_newline.sublime-snippet"}
-  }
+  },
+  { "keys": ["super+shift+a"], "command": "goto_drupalapi" }
 ]
