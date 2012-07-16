@@ -1,0 +1,21 @@
+2012-04-19 16:40:52
+Traceback (most recent call last):
+  File "./sublimesvn/threads.py", line 18, in run_with_except_hook
+  File "./sublimesvn/listeners.py", line 30, in run
+  File "./sublimesvn/status.py", line 38, in get
+  File "./sublimesvn/proc.py", line 68, in get_wc_root
+ProcessError: svn: '.' is not a working copy
+2012-05-01 09:23:41
+Traceback (most recent call last):
+  File "./sublimesvn/threads.py", line 18, in run_with_except_hook
+  File "./sublimesvn/listeners.py", line 30, in run
+  File "./sublimesvn/status.py", line 33, in get
+  File "./sublimesvn/proc.py", line 70, in get_wc_root
+ProcessError: svn: '.' is not a working copy
+2012-05-07 08:52:28
+Traceback (most recent call last):
+  File "./sublimesvn/threads.py", line 18, in run_with_except_hook
+  File "./sublimesvn/listeners.py", line 30, in run
+  File "./sublimesvn/status.py", line 33, in get
+  File "./sublimesvn/proc.py", line 70, in get_wc_root
+ProcessError: svn: '.' is not a working copy

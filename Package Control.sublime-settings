@@ -1,11 +1,14 @@
 {
-	"auto_upgrade_last_run": 1337014257,
+	"auto_upgrade_last_run": 1342462874,
 	"installed_packages":
 	[
+		"Alignment",
+		"BracketHighlighter",
 		"Drupal Project Autocomplete",
 		"Drupal Snippets",
 		"Goto Drupal API",
 		"Package Control",
-		"SVN"
+		"SVN",
+		"Tag"
 	]
 }

@@ -1,0 +1,18 @@
+{
+    // BracketHighlighter
+    // Examples: (keyword|string|number)
+    "quote_scope" : "string",
+    "curly_scope" : "entity.name.class",
+    "round_scope" : "keyword",
+    "square_scope": "keyword",
+    "angle_scope" : "entity.name.class",
+    "tag_scope"   : "entity.name.class",
+
+    // Outline? (solid|outline|underline|none)
+    "quote_style" : "underline",
+    "curly_style" : "solid",
+    "round_style" : "outline",
+    "square_style": "underline",
+    "angle_style" : "outline",
+    "tag_style"   : "outline"
+}
