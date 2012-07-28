@@ -1,11 +1,12 @@
 {
-	"auto_upgrade_last_run": 1337014257,
+	"auto_upgrade_last_run": 1343498957,
 	"installed_packages":
 	[
+		"Clipboard Manager",
+		"Djaneiro",
 		"Drupal Project Autocomplete",
 		"Drupal Snippets",
 		"Goto Drupal API",
-		"Package Control",
-		"SVN"
+		"Package Control"
 	]
 }
