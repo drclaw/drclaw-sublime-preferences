@@ -1,12 +1,15 @@
 {
-	"auto_upgrade_last_run": 1343498957,
+	"auto_upgrade_last_run": 1345317461,
 	"installed_packages":
 	[
+		"Alignment",
+		"BracketHighlighter",
 		"Clipboard Manager",
 		"Djaneiro",
 		"Drupal Project Autocomplete",
 		"Drupal Snippets",
 		"Goto Drupal API",
-		"Package Control"
+		"Package Control",
+		"Tag"
 	]
 }
