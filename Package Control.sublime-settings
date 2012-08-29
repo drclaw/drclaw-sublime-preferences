@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1342462874,
+	"auto_upgrade_last_run": 1346090346,
 	"installed_packages":
 	[
 		"Alignment",
@@ -8,7 +8,7 @@
 		"Drupal Snippets",
 		"Goto Drupal API",
 		"Package Control",
-		"SVN",
+		"SublimeBlockCursor",
 		"Tag"
 	]
 }

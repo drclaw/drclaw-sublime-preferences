@@ -7,6 +7,9 @@
 	"ensure_newline_at_eof_on_save": true,
 	"fallback_encoding": "UTF-8",
 	"font_size": 12.0,
+	"ignored_packages":
+	[
+	],
 	"rulers":
 	[
 		80
