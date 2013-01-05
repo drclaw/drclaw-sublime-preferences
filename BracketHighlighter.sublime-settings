@@ -1,7 +1,7 @@
 {
     // BracketHighlighter
     // Examples: (keyword|string|number)
-    "quote_scope" : "number",
+    "quote_scope" : "entity.name.class",
     "curly_scope" : "entity.name.class",
     "round_scope" : "entity.name.class",
     "square_scope": "entity.name.class",

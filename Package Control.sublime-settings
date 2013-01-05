@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": null,
+	"auto_upgrade_last_run": 1346090346,
 	"installed_packages":
 	[
 		"Alignment",
@@ -11,6 +11,7 @@
 		"Goto Drupal API",
 		"Package Control",
 		"Sass",
+		"SublimeBlockCursor",
 		"Tag"
 	]
 }

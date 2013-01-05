@@ -6,5 +6,8 @@
     "command": "insert_snippet",
     "args": {"name": "Packages/User/php_comment_newline.sublime-snippet"}
   },
-  { "keys": ["super+shift+a"], "command": "goto_drupalapi" }
+  { "keys": ["super+shift+a"], "command": "goto_drupalapi" },
+  // swap the keybindings for paste and paste_and_indent
+  { "keys": ["super+v"], "command": "paste_and_indent" },
+  { "keys": ["super+shift+v"], "command": "paste" }
 ]
