@@ -3,8 +3,8 @@
     // Examples: (keyword|string|number)
     "quote_scope" : "entity.name.class",
     "curly_scope" : "entity.name.class",
-    "round_scope" : "keyword",
-    "square_scope": "keyword",
+    "round_scope" : "entity.name.class",
+    "square_scope": "entity.name.class",
     "angle_scope" : "entity.name.class",
     "tag_scope"   : "entity.name.class",
 
