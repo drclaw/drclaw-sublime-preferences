@@ -1,0 +1,17 @@
+<snippet>
+  <content><![CDATA[
+(function (\$) {
+
+  Drupal.behaviors.${1:moduleName} = {
+    attach: function (context, settings) {
+      // do something
+    }
+  }
+
+})(jQuery)
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>drupaljq</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>
